@@ -1,0 +1,86 @@
+^text/x-rundeck-log-v2.0^
+^2014-07-17T17:56:51Z|stepbegin||{node=BANL0770E9F84AC|step=1|stepctx=1|user=admin}|^
+^2014-07-17T17:56:51Z|nodebegin||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: Valid Arguments^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|System taken out of MM	Host#	10.137.82.120	Status#	Success^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: ^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: succeeded^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: Valid Arguments^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|System taken out of MM	Host#	10.137.82.119	Status#	Success^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: ^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: succeeded^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: Valid Arguments^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|System taken out of MM	Host#	10.137.82.118	Status#	Success^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: ^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: succeeded^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: Valid Arguments^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|Host Doesn't Exists in Spectrum^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: Exception in thread "main" java.lang.reflect.InvocationTargetException^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	at java.lang.reflect.Method.invoke(Unknown Source)^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	at org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader.main(JarRsrcLoader.java:58)^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|Caused by: java.lang.NullPointerException^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	at test.client.NewMaintenanceMode.main(NewMaintenanceMode.java:428)^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	... 5 more^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: failed^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: Valid Arguments^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|System taken out of MM	Host#	10.137.82.122	Status#	Success^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: ^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: succeeded^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: Valid Arguments^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|System taken out of MM	Host#	10.137.82.123	Status#	Success^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: ^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: succeeded^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: Valid Arguments^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|System taken out of MM	Host#	10.137.87.158	Status#	Success^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: ^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: succeeded^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: Valid Arguments^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|System taken out of MM	Host#	10.137.87.159	Status#	Success^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: ^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: succeeded^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: <--INVALID ARGUMENT LIST-->^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|=====================================================================================================^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|E.g	 MaintenanceMode.exe {ON|OFF} {IP_ADDRESS | FILE_NAME} {SPECTRUM_USERID}^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 ON			-->	 Puts system into Maintenance Mode# Disables Monitoring^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 OFF			-->	 Takes system out of Maintenance Mode# Enables Monitoring^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 IP_ADDRESS		-->	 Single IP Address of the HOST/DEVICE^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 File_NAME		-->	 Filename containing IP Addresses of the Hosts/Devices, one per line^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 SPECTRUM_USERID	-->	 Your Spectrum Userid	{CORP_USERID}^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|=====================================================================================================^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe ON 10.152.255.39 ssmith5^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe OFF 10.152.255.39 ssmith5^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe ON servers.dat ssmith5^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe OFF servers.dat ssmith5^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: ^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: succeeded^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: <--INVALID ARGUMENT LIST-->^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|=====================================================================================================^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|E.g	 MaintenanceMode.exe {ON|OFF} {IP_ADDRESS | FILE_NAME} {SPECTRUM_USERID}^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 ON			-->	 Puts system into Maintenance Mode# Disables Monitoring^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 OFF			-->	 Takes system out of Maintenance Mode# Enables Monitoring^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 IP_ADDRESS		-->	 Single IP Address of the HOST/DEVICE^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 File_NAME		-->	 Filename containing IP Addresses of the Hosts/Devices, one per line^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 SPECTRUM_USERID	-->	 Your Spectrum Userid	{CORP_USERID}^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|=====================================================================================================^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe ON 10.152.255.39 ssmith5^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe OFF 10.152.255.39 ssmith5^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe ON servers.dat ssmith5^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe OFF servers.dat ssmith5^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: ^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: succeeded^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|Unable to connect to oprfsstmo300.corp.intuit.net using smalimath-admin/San_int02^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|Unable to connect to  using smalimath-admin/San_int02^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|Unable to connect to  using smalimath-admin/San_int02^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|Unable to connect to  using smalimath-admin/San_int02^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|Unable to connect to  using smalimath-admin/San_int02^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|Unable to connect to  using smalimath-admin/San_int02^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|Unable to connect to  using smalimath-admin/San_int02^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|Unable to connect to  using smalimath-admin/San_int02^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|Unable to connect to  using smalimath-admin/San_int02^
+^2014-07-17T17:57:54Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|Unable to connect to  using smalimath-admin/San_int02^
+^2014-07-17T17:57:54Z|nodeend||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|^
+^2014-07-17T17:57:54Z|stepend||{node=BANL0770E9F84AC|step=1|stepctx=1|user=admin}|^
+^END^

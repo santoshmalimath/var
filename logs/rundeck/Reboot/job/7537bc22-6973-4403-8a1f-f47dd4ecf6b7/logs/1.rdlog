@@ -1,0 +1,11 @@
+^text/x-rundeck-log-v2.0^
+^2014-07-17T17:27:02Z|stepbegin||{node=BANL0770E9F84AC|step=1|stepctx=1|user=admin}|^
+^2014-07-17T17:27:02Z|nodebegin||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|^
+^2014-07-17T17:27:03Z||WARN|{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|C:/RailsInstaller/Ruby1.9.3/lib/ruby/site_ruby/1.9.1/rubygems/custom_require.rb:36:in `require': cannot load such file -- ./Spectrum_Wiy_OOS.rb (LoadError)^
+^2014-07-17T17:27:03Z||WARN|{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	from C:/RailsInstaller/Ruby1.9.3/lib/ruby/site_ruby/1.9.1/rubygems/custom_require.rb:36:in `require'^
+^2014-07-17T17:27:03Z||ERROR|{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|Result: 1^
+^2014-07-17T17:27:03Z||ERROR|{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|Failed: NonZeroResultCode: Result code was 1^
+^2014-07-17T17:27:03Z|nodeend||{executionState=FAILED|failureReason=NonZeroResultCode|node=BANL0770E9F84AC|resultCode=1|step=1|stepctx=1|user=smalimath}|Result code was 1^
+^2014-07-17T17:27:03Z|stepend||{executionState=FAILED|failedNodes=BANL0770E9F84AC|failureReason=NodeDispatchFailure|node=BANL0770E9F84AC|step=1|stepctx=1|user=admin}|Node dispatch failed^
+^2014-07-17T17:27:03Z||ERROR|{node=BANL0770E9F84AC|user=admin}|Execution failed: 1: [Workflow step failures: {1=Dispatch failed on 1 nodes: [BANL0770E9F84AC: NonZeroResultCode: Result code was 1]}, Node failures: {BANL0770E9F84AC=[NonZeroResultCode: Result code was 1]}]^
+^END^

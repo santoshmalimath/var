@@ -1,0 +1,91 @@
+^text/x-rundeck-log-v2.0^
+^2014-07-23T15:45:17Z|stepbegin||{node=BANL0770E9F84AC|step=1|stepctx=1|user=admin}|^
+^2014-07-23T15:45:17Z|nodebegin||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: Valid Arguments^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|System taken out of MM	Host#	10.137.67.244	Status#	Success^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: ^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: succeeded^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: Valid Arguments^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|System taken out of MM	Host#	10.137.67.246	Status#	Success^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: ^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: succeeded^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: Valid Arguments^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|System taken out of MM	Host#	10.137.67.247	Status#	Success^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: ^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: succeeded^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: Valid Arguments^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|System taken out of MM	Host#	10.137.67.248	Status#	Success^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: ^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: succeeded^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: <--INVALID ARGUMENT LIST-->^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|=====================================================================================================^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|E.g	 MaintenanceMode.exe {ON|OFF} {IP_ADDRESS | FILE_NAME} {SPECTRUM_USERID}^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 ON			-->	 Puts system into Maintenance Mode# Disables Monitoring^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 OFF			-->	 Takes system out of Maintenance Mode# Enables Monitoring^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 IP_ADDRESS		-->	 Single IP Address of the HOST/DEVICE^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 File_NAME		-->	 Filename containing IP Addresses of the Hosts/Devices, one per line^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 SPECTRUM_USERID	-->	 Your Spectrum Userid	{CORP_USERID}^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|=====================================================================================================^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe ON 10.152.255.39 ssmith5^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe OFF 10.152.255.39 ssmith5^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe ON servers.dat ssmith5^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe OFF servers.dat ssmith5^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: ^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: succeeded^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: <--INVALID ARGUMENT LIST-->^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|=====================================================================================================^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|E.g	 MaintenanceMode.exe {ON|OFF} {IP_ADDRESS | FILE_NAME} {SPECTRUM_USERID}^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 ON			-->	 Puts system into Maintenance Mode# Disables Monitoring^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 OFF			-->	 Takes system out of Maintenance Mode# Enables Monitoring^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 IP_ADDRESS		-->	 Single IP Address of the HOST/DEVICE^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 File_NAME		-->	 Filename containing IP Addresses of the Hosts/Devices, one per line^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 SPECTRUM_USERID	-->	 Your Spectrum Userid	{CORP_USERID}^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|=====================================================================================================^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe ON 10.152.255.39 ssmith5^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe OFF 10.152.255.39 ssmith5^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe ON servers.dat ssmith5^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe OFF servers.dat ssmith5^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: ^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: succeeded^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: <--INVALID ARGUMENT LIST-->^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|=====================================================================================================^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|E.g	 MaintenanceMode.exe {ON|OFF} {IP_ADDRESS | FILE_NAME} {SPECTRUM_USERID}^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 ON			-->	 Puts system into Maintenance Mode# Disables Monitoring^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 OFF			-->	 Takes system out of Maintenance Mode# Enables Monitoring^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 IP_ADDRESS		-->	 Single IP Address of the HOST/DEVICE^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 File_NAME		-->	 Filename containing IP Addresses of the Hosts/Devices, one per line^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 SPECTRUM_USERID	-->	 Your Spectrum Userid	{CORP_USERID}^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|=====================================================================================================^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe ON 10.152.255.39 ssmith5^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe OFF 10.152.255.39 ssmith5^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe ON servers.dat ssmith5^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe OFF servers.dat ssmith5^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: ^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: succeeded^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDOUT: <--INVALID ARGUMENT LIST-->^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|=====================================================================================================^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|E.g	 MaintenanceMode.exe {ON|OFF} {IP_ADDRESS | FILE_NAME} {SPECTRUM_USERID}^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 ON			-->	 Puts system into Maintenance Mode# Disables Monitoring^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 OFF			-->	 Takes system out of Maintenance Mode# Enables Monitoring^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 IP_ADDRESS		-->	 Single IP Address of the HOST/DEVICE^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 File_NAME		-->	 Filename containing IP Addresses of the Hosts/Devices, one per line^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|	 SPECTRUM_USERID	-->	 Your Spectrum Userid	{CORP_USERID}^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|=====================================================================================================^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe ON 10.152.255.39 ssmith5^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe OFF 10.152.255.39 ssmith5^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe ON servers.dat ssmith5^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|		MaintenanceMode.exe OFF servers.dat ssmith5^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|STDERR: ^
+^2014-07-23T15:46:05Z|||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|EXIT STATUS: succeeded^
+^2014-07-23T15:46:05Z|nodeend||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|^
+^2014-07-23T15:46:05Z|stepend||{node=BANL0770E9F84AC|step=1|stepctx=1|user=admin}|^
+^2014-07-23T15:46:05Z|stepbegin||{node=BANL0770E9F84AC|step=2|stepctx=2|user=admin}|^
+^2014-07-23T15:46:05Z|nodebegin||{node=BANL0770E9F84AC|step=2|stepctx=2|user=smalimath}|^
+^2014-07-23T15:46:06Z||WARN|{node=BANL0770E9F84AC|step=2|stepctx=2|user=smalimath}|C:/RailsInstaller/Ruby1.9.3/lib/ruby/site_ruby/1.9.1/rubygems/custom_require.rb:36:in `require': cannot load such file -- C:\\RailsInstaller\\Ruby1.9.3\\lib\\ruby\\reebootWiy_OOS.rb (LoadError)^
+^2014-07-23T15:46:06Z||WARN|{node=BANL0770E9F84AC|step=2|stepctx=2|user=smalimath}|	from C:/RailsInstaller/Ruby1.9.3/lib/ruby/site_ruby/1.9.1/rubygems/custom_require.rb:36:in `require'^
+^2014-07-23T15:46:06Z||ERROR|{node=BANL0770E9F84AC|step=2|stepctx=2|user=smalimath}|Result: 1^
+^2014-07-23T15:46:06Z||ERROR|{node=BANL0770E9F84AC|step=2|stepctx=2|user=smalimath}|Failed: NonZeroResultCode: Result code was 1^
+^2014-07-23T15:46:06Z|nodeend||{executionState=FAILED|failureReason=NonZeroResultCode|node=BANL0770E9F84AC|resultCode=1|step=2|stepctx=2|user=smalimath}|Result code was 1^
+^2014-07-23T15:46:06Z|stepend||{executionState=FAILED|failedNodes=BANL0770E9F84AC|failureReason=NodeDispatchFailure|node=BANL0770E9F84AC|step=2|stepctx=2|user=admin}|Node dispatch failed^
+^2014-07-23T15:46:06Z||ERROR|{node=BANL0770E9F84AC|user=admin}|Execution failed: 6: [Workflow step failures: {2=Dispatch failed on 1 nodes: [BANL0770E9F84AC: NonZeroResultCode: Result code was 1]}, Node failures: {BANL0770E9F84AC=[NonZeroResultCode: Result code was 1]}]^
+^END^
