@@ -1,9 +1,0 @@
-^text/x-rundeck-log-v2.0^
-^2014-08-31T15:26:59Z|stepbegin||{node=BANL0770E9F84AC|step=1|stepctx=1|user=admin}|^
-^2014-08-31T15:26:59Z|nodebegin||{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|^
-^2014-08-31T15:28:18Z||ERROR|{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|Result: 2147483647^
-^2014-08-31T15:28:18Z||ERROR|{node=BANL0770E9F84AC|step=1|stepctx=1|user=smalimath}|Failed: NonZeroResultCode: Result code was 2147483647^
-^2014-08-31T15:28:18Z|nodeend||{executionState=FAILED|failureReason=NonZeroResultCode|node=BANL0770E9F84AC|resultCode=2147483647|step=1|stepctx=1|user=smalimath}|Result code was 2147483647^
-^2014-08-31T15:28:18Z|stepend||{executionState=FAILED|failedNodes=BANL0770E9F84AC|failureReason=NodeDispatchFailure|node=BANL0770E9F84AC|step=1|stepctx=1|user=admin}|Node dispatch failed^
-^2014-08-31T15:28:18Z||ERROR|{node=BANL0770E9F84AC|user=admin}|Execution failed: 16: [Workflow step failures: {1=Dispatch failed on 1 nodes: [BANL0770E9F84AC: NonZeroResultCode: Result code was 2147483647]}, Node failures: {BANL0770E9F84AC=[NonZeroResultCode: Result code was 2147483647]}]^
-^END^
